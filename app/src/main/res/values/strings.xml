@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="etHint">Enter something</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+
+</resources>
